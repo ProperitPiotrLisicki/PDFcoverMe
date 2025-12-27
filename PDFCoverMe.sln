@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PDFCoverMe", "PDFCoverMe.vbproj", "{DA61F223-8DB0-4844-9C37-B7925331EFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA61F223-8DB0-4844-9C37-B7925331EFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA61F223-8DB0-4844-9C37-B7925331EFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA61F223-8DB0-4844-9C37-B7925331EFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA61F223-8DB0-4844-9C37-B7925331EFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B26B7E2-C707-48CA-9CD5-AB358A99FBD3}
+	EndGlobalSection
+EndGlobal
